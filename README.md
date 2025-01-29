@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RachidouTerou
-- 👀 I’m interested in 
+- 👀 I’m interested in Ai, ML and Data Analyse
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rachidouterou82@gmail.com
 
 <!---
